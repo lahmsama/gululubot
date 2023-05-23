@@ -19,3 +19,12 @@
 [2023-05-23 01:25:56] [WARNING]: 请输入(1 - 2)： 
 [2023-05-23 01:26:02] [WARNING]: 请输入短信验证码： (Enter 提交) 
 [2023-05-23 02:01:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52887->127.0.0.1:10219: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-05-23 17:19:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-05-23 17:19:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54682->127.0.0.1:10219: use of closed network connection 
+[2023-05-23 17:19:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:10219/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:10219: connect: connection refused 
+[2023-05-23 17:19:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:10219/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:10219: connect: connection refused 
+[2023-05-23 17:19:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:10219/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:10219: connect: connection refused 
+[2023-05-23 17:19:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:10219/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:10219: connect: connection refused 
+[2023-05-23 17:27:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-23 17:27:29] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-05-23 17:28:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
