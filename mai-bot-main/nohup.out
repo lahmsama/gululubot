@@ -4218,3 +4218,41 @@ Amethyst（314301523）"
 05-23 17:17:40 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 612748772 from 1751794@[群:974739910] "本来应该差一天的"
 05-23 17:18:37 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1159636921 from 499247394@[群:974739910] "[CQ:image,file=76bd2d7306d813f6224652ae6cee1ca1.image,subType=1,url=https://gchat.qpic.cn/gchatpic_new/499247394/974739910-2571081568-76BD2D7306D813F6224652AE6CEE1CA1/0?term=255&amp;is_origin=0]"
 05-23 17:18:42 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -840537903 from 499247394@[群:974739910] "chet难产了"
+05-23 18:03:03 [SUCCESS] nonebot | NoneBot is initializing...
+05-23 18:03:03 [INFO] nonebot | Current Env: prod
+05-23 18:03:05 [SUCCESS] nonebot | Succeeded to import "maimaidx"
+05-23 18:03:05 [SUCCESS] nonebot | Succeeded to import "public"
+05-23 18:03:05 [SUCCESS] nonebot | Running NoneBot...
+05-23 18:03:05 [INFO] uvicorn | Started server process [42611]
+05-23 18:03:05 [INFO] uvicorn | Waiting for application startup.
+05-23 18:03:05 [INFO] uvicorn | Application startup complete.
+05-23 18:03:05 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:10219 (Press CTRL+C to quit)
+05-23 18:03:38 [INFO] uvicorn | ('127.0.0.1', 36846) - "WebSocket /onebot/v11/ws" [accepted]
+05-23 18:03:38 [INFO] nonebot | OneBot V11 | Bot 2040155677 connected
+05-23 18:03:38 [INFO] websockets | connection open
+05-23 18:03:38 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1117051789 from 1473584690@[群:974739910] "嗯"
+05-23 18:03:43 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -2062570208 from 623128073@[群:895244873] "今日舞萌"
+05-23 18:03:43 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.maimaidx, type=message, priority=1, temp=False>
+05-23 18:03:44 [INFO] nonebot | Matcher <Matcher from src.plugins.maimaidx, type=message, priority=1, temp=False> running complete
+05-23 18:05:39 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 768883170 from 1493166942@[群:974739910] "唔... 有蒙脱石散或者黄连素之类的吗"
+05-23 18:06:55 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 1523779956 from 1473584690@[群:974739910] "[CQ:image,file=5504d647dc09f991d1bc53c25dbc6c4b.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1473584690/974739910-2792846430-5504D647DC09F991D1BC53C25DBC6C4B/0?term=255&amp;is_origin=0]"
+05-23 18:06:56 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -107917916 from 1473584690@[群:974739910] "笑死我了"
+05-23 18:07:03 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1902740174 from 1473584690@[群:974739910] "[CQ:at,qq=1493166942] 没事我拉完了"
+05-23 18:07:15 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 396307592 from 1493166942@[群:974739910] "好（x"
+05-23 18:07:19 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 1620581406 from 1493166942@[群:974739910] "[CQ:at,qq=1473584690] 草"
+05-23 18:07:24 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 1656193063 from 623128073@[群:895244873] "今日舞萌"
+05-23 18:07:24 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.maimaidx, type=message, priority=1, temp=False>
+05-23 18:07:24 [INFO] nonebot | Matcher <Matcher from src.plugins.maimaidx, type=message, priority=1, temp=False> running complete
+05-23 18:10:53 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -17004099 from 3276883702@[群:974739910] "身体好疼"
+05-23 18:11:00 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1979991765 from 1806104519@[群:974739910] "[CQ:at,qq=3276883702] 你咋了"
+05-23 18:11:12 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 284354705 from 3276883702@[群:974739910] "阳了"
+05-23 18:11:20 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 1744164871 from 3276883702@[群:974739910] "头昏，关节疼"
+05-23 18:11:23 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -146094698 from 1493166942@[群:974739910] "[CQ:at,qq=3276883702] 揉"
+05-23 18:11:31 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -2142374656 from 3276883702@[群:974739910] "[CQ:face,id=107]"
+05-23 18:11:36 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -527794971 from 3276883702@[群:974739910] "贴"
+05-23 18:11:40 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1752347533 from 3276883702@[群:974739910] "贴"
+05-23 18:11:55 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 243539401 from 1493166942@[群:974739910] "dgg 有常用药品吗"
+05-23 18:12:16 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 2038639967 from 3276883702@[群:974739910] "有布洛芬"
+05-23 18:13:00 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -404244228 from 1806104519@[群:974739910] "抱 dgg"
+05-23 18:13:17 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message -1864333206 from 1806104519@[群:974739910] "工作上你请个假摸鱼吧要不"
+05-23 18:13:37 [SUCCESS] nonebot | ONEBOT V11 2040155677 | [message.group.normal]: Message 166320592 from 3276883702@[群:974739910] "这几天还要大改论文"

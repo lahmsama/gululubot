@@ -203,3 +203,12 @@
 17:27:13.554155 version@stat F·[1] S·320B[320B] Sc·[0.25]
 17:27:13.560840 db@janitor F·3 G·0
 17:27:13.560976 db@open done T·10.431467ms
+=============== May 23, 2023 (UTC) ===============
+18:03:28.980238 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:03:28.980589 version@stat F·[1] S·320B[320B] Sc·[0.25]
+18:03:28.980704 db@open opening
+18:03:28.980840 journal@recovery F·1
+18:03:28.980953 journal@recovery recovering @45
+18:03:28.987554 version@stat F·[1] S·320B[320B] Sc·[0.25]
+18:03:28.995404 db@janitor F·3 G·0
+18:03:28.995425 db@open done T·14.629828ms

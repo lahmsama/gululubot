@@ -28,3 +28,4 @@
 [2023-05-23 17:27:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
 [2023-05-23 17:27:29] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
 [2023-05-23 17:28:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-05-23 18:03:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
